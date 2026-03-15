@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-!@dg7473sj0wwmj0seoh!uqtt2(8c0u0_s5od+5z2x7(%qw6fv
 #    SECRET_KEY = f.read().strip()
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['mayportfolio.onrender.com', 'www.mayportfolio.onrender.com']
 #ALLOWED_HOSTS = ['ameno.pythonanywhere.com']
